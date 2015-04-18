@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<layout>
+    <default>
+        <reference name="root">
+            <block type="page/html_topmenu" name="catalog.topnav" template="page/html/topmenu.phtml">
+                <block type="page/html_topmenu_renderer" name="catalog.topnav.renderer" template="page/html/topmenu/renderer.phtml"/>
+            </block>
+            <reference name="catalog.topnav.renderer">
+                <action method="setTemplate">
+                    <template>catalogcategoryremovehref/renderer.phtml</template>
+                </action>
+            </reference>
+        </reference>
+    </default>
+</layout>

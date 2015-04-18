@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Rmch_CatalogCategoryRemoveHref>
+            <active>true</active>
+            <codePool>community</codePool>
+            <version>0.1.0</version>
+        </Rmch_CatalogCategoryRemoveHref>
+    </modules>
+</config>
