@@ -6,7 +6,7 @@ It's useful for Merchants with large main navigation menus who wish to remove th
 
 The module adds an attribute to the *Catalog > Manage Categories > General Tab* called *Remove Href*.  This can be set to *true* to remove the link from magento's top menu.
 
-for more information [see my blog post](http://rossmchugh.com/magento-module…move-nav-links/).
+for more information [see my blog post](http://rossmchugh.com/magento-module-to-remove-nav-links/).
 
 #### Installation
 * Copy module files into your application.
